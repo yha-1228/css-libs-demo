@@ -1,0 +1,12 @@
+.base {
+  background-color: black;
+  color: white;
+}
+
+.primary {
+  background-color: blue;
+}
+
+.danger {
+  background-color: red;
+}
