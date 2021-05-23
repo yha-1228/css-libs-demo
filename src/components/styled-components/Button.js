@@ -5,9 +5,15 @@ const Button = styled.button`
   color: white;
 
   ${({ variant }) =>
-    variant &&
+    variant === 'primary' &&
     css`
-      background-color: ${variant};
+      background-color: blue;
+    `}
+
+  ${({ variant }) =>
+    variant === 'danger' &&
+    css`
+      background-color: red;
     `}
 `
 
