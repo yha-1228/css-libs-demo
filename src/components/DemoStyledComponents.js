@@ -1,4 +1,4 @@
-import Button from './styled-components/Button'
+import Button from './styled-components/button'
 
 const DemoStyledComponents = () => {
   return (
