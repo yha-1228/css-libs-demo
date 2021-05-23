@@ -5,7 +5,7 @@ import './normalize.css'
 
 const App = () => {
   return (
-    <div>
+    <div style={{ textAlign: 'center' }}>
       <h1>Demo</h1>
       <DemoBEM />
       <DemoCSSModules />
