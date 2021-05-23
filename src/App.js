@@ -1,7 +1,7 @@
 import DemoBEM from './components/DemoBEM'
 import DemoCSSModules from './components/DemoCSSModules'
 import DemoStyledComponents from './components/DemoStyledComponents'
-import './App.css'
+import './normalize.css'
 
 const App = () => {
   return (
