@@ -1,6 +1,7 @@
 import DemoBEM from './components/DemoBEM'
 import DemoCSSModules from './components/DemoCSSModules'
 import DemoStyledComponents from './components/DemoStyledComponents'
+import DemoStyledComponents02 from './components/DemoStyledComponents02'
 import './App.css'
 
 const App = () => {
@@ -10,6 +11,7 @@ const App = () => {
       <DemoBEM />
       <DemoCSSModules />
       <DemoStyledComponents />
+      <DemoStyledComponents02 />
     </div>
   )
 }
