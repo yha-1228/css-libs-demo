@@ -1,6 +1,6 @@
 import styled, { css } from 'styled-components/macro'
 
-const Button = styled.button`
+const Component = styled.button`
   background-color: black;
   color: white;
 
@@ -17,4 +17,4 @@ const Button = styled.button`
     `}
 `
 
-export default Button
+export default Component
